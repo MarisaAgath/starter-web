@@ -14,3 +14,4 @@ As stated above, the main purpose is to provide a simple example
 web project.
 
 ## How to contributes
+This is a small change 
